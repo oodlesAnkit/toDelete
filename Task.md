@@ -1,3 +1,11 @@
+19 Feb 2023
+Yesterday's Task
+
+- Checked Flyingpress route not found issue, trailing slash redirection cause the issue
+- Made changes on the plugin setting for optimisation, test backup pages
+- Made changes in the plugin for FlyingPress header cache not set
+- Connected with devops for the header and CSP issue  
+
 =================================================================================================================
 15 Feb 2023 
 Today's Task
