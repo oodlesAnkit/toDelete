@@ -1,3 +1,30 @@
+22 Feb 2024
+Today's Task 
+
+- Gone through Nelio A/B testing plugin for the creation of test
+- Gone through test schenrio to create & perform test for CTA (NFT and Smart Contract) 
+- Resolved issue for progress bar pause along with web stories 
+- Check other website design & performance in PSI 
+- Connected with DevOps for prod developer blog sitemap update
+
+Other Task
+- Connected with AI team for the developer blog sitemap auto-generate
+
+
+=================================================================================================================
+21 Feb 2023
+Today's Task 
+
+- Created page for developer blog sitemap auto generate
+- Connected with FlyingPress support for caching expiry 
+- Resolved issue for the web stories main page and mobile responsiveness 
+- Connected with Nisha for the web stories 
+- Working on post preview and search issue 
+- Checking A/B testing plugin
+
+Other task 
+- Connected with ERP team for the content blog missing data and Search console 3xx issue
+=================================================================================================================
 19 Feb 2023
 Yesterday's Task
 
